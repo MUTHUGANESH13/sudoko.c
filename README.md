@@ -20,13 +20,6 @@ and problem-solving techniques using different programming languages.
   The project demonstrates the use of basic OOP principles, including class design, lists, and switch case constructs for user interaction.
 
 ### 3. C Projects
-- [Sudoku solver](https://github.com/MUTHUGANESH13/mini-project/blob/main/sudoko.c)  
-
-  This project implements a Sudoku solver that allows users to interactively input values into a Sudoku board, reset the board, change the board size,
-  and solve the puzzle. The program supports grid sizes from 4x4 to 36x36, automatically adjusting the block sizes based on the dimensions of the grid.
-  Users can input values directly into specific cells and receive solutions to their puzzles. The solver uses backtracking to find the solution and checks
-  for invalid entries at every step. This project demonstrates the use of arrays, recursion, and basic input handling in C.
-
 - [voting system](https://github.com/MUTHUGANESH13/mini-project/blob/main/voting%20system.c)  
 
   This project implements a basic voting system where users can cast their votes, view candidate information, and check voting statistics.
